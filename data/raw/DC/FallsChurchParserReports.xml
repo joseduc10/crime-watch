@@ -10693,7 +10693,7 @@
       <element name='File' >CrimeReport050608-051208.txt</element>
       <element name='CrimeNumber' >01242009.134859.019.CFC</element>
       <element name='Catagory' >Destruction of Property</element>
-      <element name='Bussiness' >Café Dang</element>
+      <element name='Bussiness' >Cafe Dang</element>
       <element name='County' >Falls Church</element>
       <element name='StartDate' type='Calendar' >2008:4:6:0:0:0:0</element>
       <class name='ciras.db.URCCatagories' >
@@ -34098,7 +34098,7 @@
       <element name='File' >CrimeReport_072407-073007.txt</element>
       <element name='CrimeNumber' >01242009.140747.879.CFC</element>
       <element name='Catagory' >Burglary Commercial</element>
-      <element name='Bussiness' >Clay Café Studios</element>
+      <element name='Bussiness' >Clay Cafe Studios</element>
       <element name='County' >Falls Church</element>
       <element name='StartDate' type='Calendar' >2007:6:24:3:59:0:0</element>
       <class name='ciras.db.URCCatagories' >
@@ -42127,7 +42127,7 @@
       <element name='File' >CrimeReport_122208-010509.txt</element>
       <element name='CrimeNumber' >01242009.141342.207.CFC</element>
       <element name='Catagory' >Fraud</element>
-      <element name='Bussiness' >Hunan Café</element>
+      <element name='Bussiness' >Hunan Cafe</element>
       <element name='County' >Falls Church</element>
       <element name='StartDate' type='Calendar' >2008:11:21:21:45:0:0</element>
       <class name='ciras.db.URCCatagories' >

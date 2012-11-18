@@ -3603,7 +3603,7 @@
       <element name='File' >07-03-2008.txt</element>
       <element name='CrimeNumber' >06242009.012312.283.VIN</element>
       <element name='Catagory' >Felonious Shoplifting</element>
-      <element name='Bussiness' >Magruder’s</element>
+      <element name='Bussiness' >Magruder's</element>
       <element name='County' >Vienna</element>
       <class name='ciras.db.URCCatagories' >
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
@@ -4027,7 +4027,7 @@
    <class name='ciras.db.Crime' >
       <element name='File' >07-03-2008.txt</element>
       <element name='CrimeNumber' >06242009.012312.476.VIN</element>
-      <element name='Catagory' >Assist U.S. Marshal’s Office</element>
+      <element name='Catagory' >Assist U.S. Marshal's Office</element>
       <element name='Bussiness' >800 Block Follin Lane</element>
       <element name='County' >Vienna</element>
       <class name='ciras.db.URCCatagories' >
@@ -4903,7 +4903,7 @@
       <element name='File' >07-11-2008.txt</element>
       <element name='CrimeNumber' >06242009.012321.634.VIN</element>
       <element name='Catagory' >Grand Larceny</element>
-      <element name='Bussiness' >Magruder’s</element>
+      <element name='Bussiness' >Magruder's</element>
       <element name='County' >Vienna</element>
       <class name='ciras.db.URCCatagories' >
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
@@ -10184,7 +10184,7 @@
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
          <element name='CrimeGroup' >B</element>
       </class >
-      <element name='Description' >At the Vienna Elementary open house a father and daughter were inside a vehicle. The exfiancée of the father came over to the vehicle and allegedly struck the father. No probable cause for an arrest was apparent so the parties were advised of the warrant obtainment and protective order processes by Officer Mangan.</element>
+      <element name='Description' >At the Vienna Elementary open house a father and daughter were inside a vehicle. The exfiancee of the father came over to the vehicle and allegedly struck the father. No probable cause for an arrest was apparent so the parties were advised of the warrant obtainment and protective order processes by Officer Mangan.</element>
       <class name='ciras.db.Address' >
          <element name='Location' >100 Center Street</element>
          <element name='City' >Vienna</element>
@@ -11978,7 +11978,7 @@
       <element name='File' >09-19-2008.txt</element>
       <element name='CrimeNumber' >06242009.012407.479.VIN</element>
       <element name='Catagory' >Grand Larceny</element>
-      <element name='Bussiness' >Wheat’s Landscaping</element>
+      <element name='Bussiness' >Wheat's Landscaping</element>
       <element name='County' >Vienna</element>
       <class name='ciras.db.URCCatagories' >
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
@@ -12503,7 +12503,7 @@
       <element name='File' >09-26-2008.txt</element>
       <element name='CrimeNumber' >06242009.012407.586.VIN</element>
       <element name='Catagory' >Grand Larceny</element>
-      <element name='Bussiness' >Karin’s Florist</element>
+      <element name='Bussiness' >Karin's Florist</element>
       <element name='County' >Vienna</element>
       <class name='ciras.db.URCCatagories' >
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
@@ -13728,7 +13728,7 @@
       <element name='File' >10-10-2008.txt</element>
       <element name='CrimeNumber' >06242009.012412.089.VIN</element>
       <element name='Catagory' >Grand Larceny</element>
-      <element name='Bussiness' >Connell’s Valet</element>
+      <element name='Bussiness' >Connell's Valet</element>
       <element name='County' >Vienna</element>
       <class name='ciras.db.URCCatagories' >
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
@@ -16528,7 +16528,7 @@
       <element name='File' >11-14-2008.txt</element>
       <element name='CrimeNumber' >06242009.012421.210.VIN</element>
       <element name='Catagory' >Arrest Drunk in Public, Possession of Marijuana</element>
-      <element name='Bussiness' >Neighbor’s Restaurant</element>
+      <element name='Bussiness' >Neighbor's Restaurant</element>
       <element name='County' >Vienna</element>
       <class name='ciras.db.URCCatagories' >
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
@@ -17353,7 +17353,7 @@
       <element name='File' >11-26-2008.txt</element>
       <element name='CrimeNumber' >06242009.012421.377.VIN</element>
       <element name='Catagory' >Burglary</element>
-      <element name='Bussiness' >Neighbor’s Restaurant</element>
+      <element name='Bussiness' >Neighbor's Restaurant</element>
       <element name='County' >Vienna</element>
       <class name='ciras.db.URCCatagories' >
          <element name='Catagorie' >BURGLARY</element>
@@ -17978,7 +17978,7 @@
       <element name='File' >12-05-2008.txt</element>
       <element name='CrimeNumber' >06242009.012432.023.VIN</element>
       <element name='Catagory' >Arrest Shoplifting (Concealment)</element>
-      <element name='Bussiness' >Magruder’s</element>
+      <element name='Bussiness' >Magruder's</element>
       <element name='County' >Vienna</element>
       <class name='ciras.db.URCCatagories' >
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
@@ -18453,7 +18453,7 @@
       <element name='File' >12-12-2008.txt</element>
       <element name='CrimeNumber' >06242009.012432.125.VIN</element>
       <element name='Catagory' >Commercial Alarm/ Open Door</element>
-      <element name='Bussiness' >Michael’s</element>
+      <element name='Bussiness' >Michael's</element>
       <element name='County' >Vienna</element>
       <class name='ciras.db.URCCatagories' >
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
@@ -18728,7 +18728,7 @@
       <element name='File' >12-19-2008.txt</element>
       <element name='CrimeNumber' >06242009.012436.405.VIN</element>
       <element name='Catagory' >Petit Larceny</element>
-      <element name='Bussiness' >Michael’s</element>
+      <element name='Bussiness' >Michael's</element>
       <element name='County' >Vienna</element>
       <class name='ciras.db.URCCatagories' >
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
@@ -18803,7 +18803,7 @@
       <element name='File' >12-19-2008.txt</element>
       <element name='CrimeNumber' >06242009.012436.429.VIN</element>
       <element name='Catagory' >Illegal Dumping</element>
-      <element name='Bussiness' >Foster’s Grille</element>
+      <element name='Bussiness' >Foster's Grille</element>
       <element name='County' >Vienna</element>
       <class name='ciras.db.URCCatagories' >
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
@@ -19878,7 +19878,7 @@
       <element name='File' >12-31-2008.txt</element>
       <element name='CrimeNumber' >06242009.012441.712.VIN</element>
       <element name='Catagory' >Burglary</element>
-      <element name='Bussiness' >Neighbor’s Restaurant</element>
+      <element name='Bussiness' >Neighbor's Restaurant</element>
       <element name='County' >Vienna</element>
       <class name='ciras.db.URCCatagories' >
          <element name='Catagorie' >BURGLARY</element>

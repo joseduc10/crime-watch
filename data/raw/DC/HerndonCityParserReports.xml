@@ -374,7 +374,7 @@
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
          <element name='CrimeGroup' >B</element>
       </class >
-      <element name='Description' >Noise complaint reported 0054 – 3/17/08</element>
+      <element name='Description' >Noise complaint reported 0054   3/17/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >100 Laurel Way</element>
          <element name='City' >Herndon</element>
@@ -2194,7 +2194,7 @@
          <element name='Catagorie' >DESTRUCTION OF PROPERTY</element>
          <element name='CrimeGroup' >A</element>
       </class >
-      <element name='Description' >The victim’s vehicle was damaged during an altercation with another driver 2246 04/09/08.</element>
+      <element name='Description' >The victim's vehicle was damaged during an altercation with another driver 2246 04/09/08.</element>
       <class name='ciras.db.Address' >
          <element name='Location' >1000 Crestview Drive</element>
          <element name='City' >Herndon</element>
@@ -2948,7 +2948,7 @@
          <element name='Catagorie' >DESTRUCTION OF PROPERTY</element>
          <element name='CrimeGroup' >A</element>
       </class >
-      <element name='Description' >Graffiti was found painted on a vehicle’s window 2335 04/14/08</element>
+      <element name='Description' >Graffiti was found painted on a vehicle's window 2335 04/14/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >1000 Young Avenue</element>
          <element name='City' >Herndon</element>
@@ -2974,7 +2974,7 @@
          <element name='Catagorie' >DESTRUCTION OF PROPERTY</element>
          <element name='CrimeGroup' >A</element>
       </class >
-      <element name='Description' >Graffiti was found painted on a vehicle’s window 0620 04/15/08</element>
+      <element name='Description' >Graffiti was found painted on a vehicle's window 0620 04/15/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >900 Barker Hill Road</element>
          <element name='City' >Herndon</element>
@@ -3338,7 +3338,7 @@
          <element name='Catagorie' >LARCENY</element>
          <element name='CrimeGroup' >A</element>
       </class >
-      <element name='Description' >Several CD’s were stolen from a vehicle between 1930 on 04/25/08 and 1003 on 04/26/08</element>
+      <element name='Description' >Several CD's were stolen from a vehicle between 1930 on 04/25/08 and 1003 on 04/26/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >500 Florida Avenue</element>
          <element name='City' >Herndon</element>
@@ -3520,7 +3520,7 @@
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
          <element name='CrimeGroup' >B</element>
       </class >
-      <element name='Description' >The Victim’s identity was use to open two accounts reported at 1340 on 04/24/08</element>
+      <element name='Description' >The Victim's identity was use to open two accounts reported at 1340 on 04/24/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >1300 Springtide Place</element>
          <element name='City' >Herndon</element>
@@ -4508,7 +4508,7 @@
          <element name='Catagorie' >LARCENY</element>
          <element name='CrimeGroup' >A</element>
       </class >
-      <element name='Description' >Two children’s bicycles were stolen from the yard between 0200 and 1130 on 05/10/08</element>
+      <element name='Description' >Two children's bicycles were stolen from the yard between 0200 and 1130 on 05/10/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >300 Linden Court</element>
          <element name='City' >Herndon</element>
@@ -5418,7 +5418,7 @@
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
          <element name='CrimeGroup' >B</element>
       </class >
-      <element name='Description' >The victim’s credit card was used without permission between 1900 on 05/10/08 and 1628 on 05/13/08</element>
+      <element name='Description' >The victim's credit card was used without permission between 1900 on 05/10/08 and 1628 on 05/13/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >900 Leona Lane</element>
          <element name='City' >Herndon</element>
@@ -5444,7 +5444,7 @@
          <element name='Catagorie' >LARCENY</element>
          <element name='CrimeGroup' >A</element>
       </class >
-      <element name='Description' >The victim’s wallet and credit card were stolen from her purse; the credit card was later used between 1215 and 1730 on 05/13/08</element>
+      <element name='Description' >The victim's wallet and credit card were stolen from her purse; the credit card was later used between 1215 and 1730 on 05/13/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >800 Dranesville Road</element>
          <element name='City' >Herndon</element>
@@ -6822,7 +6822,7 @@
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
          <element name='CrimeGroup' >B</element>
       </class >
-      <element name='Description' >Ortiz Anthony 20 year-old male of Vienna was charged with “Intent to Annoy by Ringing of a Phone.” Ortiz was released on a summons 1259 05/26/08</element>
+      <element name='Description' >Ortiz Anthony 20 year-old male of Vienna was charged with 'Intent to Annoy by Ringing of a Phone.' Ortiz was released on a summons 1259 05/26/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >600 Post Drive 200802298 \</element>
          <element name='City' >Herndon</element>
@@ -7004,7 +7004,7 @@
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
          <element name='CrimeGroup' >B</element>
       </class >
-      <element name='Description' >Benaffaue Imad 23 year-old male was arrested for “Wearing of Masks in Public” (a violation of State Code 18.2-422) 2108 05/30/08</element>
+      <element name='Description' >Benaffaue Imad 23 year-old male was arrested for 'Wearing of Masks in Public' (a violation of State Code 18.2-422) 2108 05/30/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >700 Elden Street</element>
          <element name='City' >Herndon</element>
@@ -8694,7 +8694,7 @@
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
          <element name='CrimeGroup' >B</element>
       </class >
-      <element name='Description' >A credit card was open in the victim’s name without their authorization reported 2144 06/21/08</element>
+      <element name='Description' >A credit card was open in the victim's name without their authorization reported 2144 06/21/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >1300 Benicia Lane</element>
          <element name='City' >Herndon</element>
@@ -8954,7 +8954,7 @@
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
          <element name='CrimeGroup' >B</element>
       </class >
-      <element name='Description' >Several credit accounts were open in the victim’s name without their authorization during the past several years reported 1000 on 06/13/08</element>
+      <element name='Description' >Several credit accounts were open in the victim's name without their authorization during the past several years reported 1000 on 06/13/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >600 Worchester St</element>
          <element name='City' >Herndon</element>
@@ -8980,7 +8980,7 @@
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
          <element name='CrimeGroup' >B</element>
       </class >
-      <element name='Description' >Several vehicles’ tires were damaged by two juveniles. Both juveniles were turned over to their parents and charges are pending 2056 06/20/08</element>
+      <element name='Description' >Several vehicles' tires were damaged by two juveniles. Both juveniles were turned over to their parents and charges are pending 2056 06/20/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >700 Lynn Street</element>
          <element name='City' >Herndon</element>
@@ -10202,7 +10202,7 @@
          <element name='Catagorie' >ROBBERY</element>
          <element name='CrimeGroup' >A</element>
       </class >
-      <element name='Description' >The victim reported that he was robbed at knife point of his wallet an undisclosed amount of cash and credit card by two subjects. The suspect were describe as a black male 6’0” medium build late twenties white tee-shirt black jeans and a black female 30-35 years of age 5’6” medium build blue shirt jeans carrying a blue bag.</element>
+      <element name='Description' >The victim reported that he was robbed at knife point of his wallet an undisclosed amount of cash and credit card by two subjects. The suspect were describe as a black male 6'0' medium build late twenties white tee-shirt black jeans and a black female 30-35 years of age 5'6' medium build blue shirt jeans carrying a blue bag.</element>
       <class name='ciras.db.Address' >
          <element name='Location' >1200 Elden Street</element>
          <element name='City' >Herndon</element>
@@ -10852,7 +10852,7 @@
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
          <element name='CrimeGroup' >B</element>
       </class >
-      <element name='Description' >The victim stated that she was forced into her home by an acquaintance sexually assaulted and cut with a sharp object. Warrants were obtained by Herndon Police detectives Wilmer Lopez Mejia 29 year-old w/m 5’7” tall 150 lbs. (wanted poster attached on last page) between 2200 on 07/11/08 and 0900 on 07/12/08</element>
+      <element name='Description' >The victim stated that she was forced into her home by an acquaintance sexually assaulted and cut with a sharp object. Warrants were obtained by Herndon Police detectives Wilmer Lopez Mejia 29 year-old w/m 5'7' tall 150 lbs. (wanted poster attached on last page) between 2200 on 07/11/08 and 0900 on 07/12/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >400 Virginia Avenue</element>
          <element name='City' >Herndon</element>
@@ -11450,7 +11450,7 @@
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
          <element name='CrimeGroup' >B</element>
       </class >
-      <element name='Description' >The Victim reported he assaulted by a subject that attempted to rob him. The suspect was described a white male 6’0” tall wearing a black “hoodie” blue jean and driving a black 4 door Honda.</element>
+      <element name='Description' >The Victim reported he assaulted by a subject that attempted to rob him. The suspect was described a white male 6'0' tall wearing a black 'hoodie' blue jean and driving a black 4 door Honda.</element>
       <class name='ciras.db.Address' >
          <element name='Location' >1000 Nicklaus Court</element>
          <element name='City' >Herndon</element>
@@ -14830,7 +14830,7 @@
          <element name='Catagorie' >LARCENY</element>
          <element name='CrimeGroup' >A</element>
       </class >
-      <element name='Description' >Two vehicles were broken into and had GPS’s stolen between 1800 08/13/08 and 0900 08/14/08</element>
+      <element name='Description' >Two vehicles were broken into and had GPS's stolen between 1800 08/13/08 and 0900 08/14/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >12000 Alton Square</element>
          <element name='City' >Herndon</element>
@@ -14882,7 +14882,7 @@
          <element name='Catagorie' >LARCENY</element>
          <element name='CrimeGroup' >A</element>
       </class >
-      <element name='Description' >A vehicle was broken into and CD’s were stolen 1218 08/17/08</element>
+      <element name='Description' >A vehicle was broken into and CD's were stolen 1218 08/17/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >500 Florida Avenue</element>
          <element name='City' >Herndon</element>
@@ -16728,7 +16728,7 @@
          <element name='Catagorie' >LARCENY</element>
          <element name='CrimeGroup' >A</element>
       </class >
-      <element name='Description' >Six vehicles were broken into; three GPS’s and a laptop were reported stolen 0658 08/26/08</element>
+      <element name='Description' >Six vehicles were broken into; three GPS's and a laptop were reported stolen 0658 08/26/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >2100 Wilkes Court</element>
          <element name='City' >Herndon</element>
@@ -17066,7 +17066,7 @@
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
          <element name='CrimeGroup' >B</element>
       </class >
-      <element name='Description' >Vasquez Velasquez German 35 year old male of Sterling was arrested for Driving without a Valid Operator’s License 1955 08/26/08</element>
+      <element name='Description' >Vasquez Velasquez German 35 year old male of Sterling was arrested for Driving without a Valid Operator's License 1955 08/26/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >1100 Herndon Parkway</element>
          <element name='City' >Herndon</element>
@@ -17118,7 +17118,7 @@
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
          <element name='CrimeGroup' >B</element>
       </class >
-      <element name='Description' >Cruz Nelson 21 year old male of Sterling was issued a summons for Driving with out a Valid Operator’s License 2050 08/31/08</element>
+      <element name='Description' >Cruz Nelson 21 year old male of Sterling was issued a summons for Driving with out a Valid Operator's License 2050 08/31/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >1400 Herndon Parkway</element>
          <element name='City' >Herndon</element>
@@ -22162,7 +22162,7 @@
          <element name='Catagorie' >ROBBERY</element>
          <element name='CrimeGroup' >A</element>
       </class >
-      <element name='Description' >The victim reported being robbed by three Hispanic males carrying a knife the suspects fled the scene. The suspect were described as two Hispanic males 18 to 25 year of age 5’6” to 5’ 10” medium build on wearing a “baggy tee shirt” the other wearing a maroon shirt 2210 10/19/08</element>
+      <element name='Description' >The victim reported being robbed by three Hispanic males carrying a knife the suspects fled the scene. The suspect were described as two Hispanic males 18 to 25 year of age 5'6' to 5' 10' medium build on wearing a 'baggy tee shirt' the other wearing a maroon shirt 2210 10/19/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >13000 Worldgate Drive</element>
          <element name='City' >Herndon</element>
@@ -22266,7 +22266,7 @@
          <element name='Catagorie' >LARCENY</element>
          <element name='CrimeGroup' >A</element>
       </class >
-      <element name='Description' >The victim’s car was stolen and involved in an accident the suspects fled the scene 2315 10/18/08</element>
+      <element name='Description' >The victim's car was stolen and involved in an accident the suspects fled the scene 2315 10/18/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >700 Campbell Way</element>
          <element name='City' >Herndon</element>
@@ -24138,7 +24138,7 @@
          <element name='Catagorie' >DESTRUCTION OF PROPERTY</element>
          <element name='CrimeGroup' >A</element>
       </class >
-      <element name='Description' >The front door of a residence was “egged” by juveniles 1828 10/30/08</element>
+      <element name='Description' >The front door of a residence was 'egged' by juveniles 1828 10/30/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >1000 Alabama Drive</element>
          <element name='City' >Herndon</element>
@@ -25776,7 +25776,7 @@
          <element name='Catagorie' >LARCENY</element>
          <element name='CrimeGroup' >A</element>
       </class >
-      <element name='Description' >Two vehicles were broken in to resulting in two GPS’ and two MP3 players being stolen between 2200 11/24/08 and 0700 11/25/08</element>
+      <element name='Description' >Two vehicles were broken in to resulting in two GPS' and two MP3 players being stolen between 2200 11/24/08 and 0700 11/25/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >700 Tamarack Way</element>
          <element name='City' >Herndon</element>
@@ -26270,7 +26270,7 @@
          <element name='Catagorie' >LARCENY</element>
          <element name='CrimeGroup' >A</element>
       </class >
-      <element name='Description' >A subject attempted to steal Reese’s Peanut Butter Cups from a business 1632 11/27/08</element>
+      <element name='Description' >A subject attempted to steal Reese's Peanut Butter Cups from a business 1632 11/27/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >1200 Elden Street</element>
          <element name='City' >Herndon</element>
@@ -26842,7 +26842,7 @@
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
          <element name='CrimeGroup' >B</element>
       </class >
-      <element name='Description' >O’Reilly David 27 year old male of Herndon was arrested for Assault 0025 12/04/08</element>
+      <element name='Description' >O'Reilly David 27 year old male of Herndon was arrested for Assault 0025 12/04/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >800 Elden Street</element>
          <element name='City' >Herndon</element>
@@ -27830,7 +27830,7 @@
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
          <element name='CrimeGroup' >B</element>
       </class >
-      <element name='Description' >The victim reported someone using his name to obtain a driver’s license 1312 12/17/08</element>
+      <element name='Description' >The victim reported someone using his name to obtain a driver's license 1312 12/17/08</element>
       <class name='ciras.db.Address' >
          <element name='Location' >300 Herndon Parkway</element>
          <element name='City' >Herndon</element>
@@ -28220,7 +28220,7 @@
          <element name='Catagorie' >ALL OTHER OFFENSES</element>
          <element name='CrimeGroup' >B</element>
       </class >
-      <element name='Description' >A victim reported being sexually assaulted by an acquaintance. Warrants charging Navarro Yoni Edwin (white male 5’03” 170 lbs brown eyes black hair) with Sexual Battery and Indecent Liberties with a Minor were obtained 1800 01/04/09 (Wanted Poster Attached)</element>
+      <element name='Description' >A victim reported being sexually assaulted by an acquaintance. Warrants charging Navarro Yoni Edwin (white male 5'03' 170 lbs brown eyes black hair) with Sexual Battery and Indecent Liberties with a Minor were obtained 1800 01/04/09 (Wanted Poster Attached)</element>
       <class name='ciras.db.Address' >
          <element name='Location' >1200 Springtide Place</element>
          <element name='City' >Herndon</element>
@@ -29000,7 +29000,7 @@
          <element name='Catagorie' >DESTRUCTION OF PROPERTY</element>
          <element name='CrimeGroup' >A</element>
       </class >
-      <element name='Description' >A vehicle’s fender was damaged 1942 01/07/09</element>
+      <element name='Description' >A vehicle's fender was damaged 1942 01/07/09</element>
       <class name='ciras.db.Address' >
          <element name='Location' >400 Elden Street</element>
          <element name='City' >Herndon</element>
