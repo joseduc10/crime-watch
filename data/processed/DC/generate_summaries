@@ -1,0 +1,27 @@
+#!/bin/bash
+
+rm -rf summaries/*
+
+sed -n 's/^1,[^,]*,\([^,]*\),.*/\1/p' * > summaries/all_other_offenses
+sed -n 's/^2,[^,]*,\([^,]*\),.*/\1/p' * > summaries/arson
+sed -n 's/^3,[^,]*,\([^,]*\),.*/\1/p' * > summaries/assault
+sed -n 's/^4,[^,]*,\([^,]*\),.*/\1/p' * > summaries/breaking_and_entering
+sed -n 's/^5,[^,]*,\([^,]*\),.*/\1/p' * > summaries/burglary
+sed -n 's/^6,[^,]*,\([^,]*\),.*/\1/p' * > summaries/counterfeiting
+sed -n 's/^7,[^,]*,\([^,]*\),.*/\1/p' * > summaries/destruction_of_property
+sed -n 's/^8,[^,]*,\([^,]*\),.*/\1/p' * > summaries/disorderly_conduc
+sed -n 's/^9,[^,]*,\([^,]*\),.*/\1/p' * > summaries/dui
+sed -n 's/^10,[^,]*,\([^,]*\),.*/\1/p' * > summaries/drug
+sed -n 's/^11,[^,]*,\([^,]*\),.*/\1/p' * > summaries/drunkenness
+sed -n 's/^12,[^,]*,\([^,]*\),.*/\1/p' * > summaries/embezzlement
+sed -n 's/^13,[^,]*,\([^,]*\),.*/\1/p' * > summaries/homicide
+sed -n 's/^14,[^,]*,\([^,]*\),.*/\1/p' * > summaries/kidnapping
+sed -n 's/^15,[^,]*,\([^,]*\),.*/\1/p' * > summaries/larceny
+sed -n 's/^16,[^,]*,\([^,]*\),.*/\1/p' * > summaries/liquor_law_violations
+sed -n 's/^17,[^,]*,\([^,]*\),.*/\1/p' * > summaries/motor_vehicle_theft
+sed -n 's/^18,[^,]*,\([^,]*\),.*/\1/p' * > summaries/peeping_tom
+sed -n 's/^19,[^,]*,\([^,]*\),.*/\1/p' * > summaries/pornography
+sed -n 's/^20,[^,]*,\([^,]*\),.*/\1/p' * > summaries/robbery
+sed -n 's/^21,[^,]*,\([^,]*\),.*/\1/p' * > summaries/runaway
+sed -n 's/^22,[^,]*,\([^,]*\),.*/\1/p' * > summaries/sex_offenses
+sed -n 's/^23,[^,]*,\([^,]*\),.*/\1/p' * > summaries/disorderly_conduct
