@@ -1,7 +1,7 @@
 import sys
 import nltk
 import random
-import marshal
+import cPickle
 
 def document_features(document,word_features): 
     document_words = set(document) 
@@ -66,7 +66,7 @@ def main():
 
     print "Saving classifier"
     outf = open(outfname, 'wb')
-    marshal.dump(classifier, outf)
+    cPickle.dump(classifier, outf)
     outf.close()
     print "Done"
     
